@@ -24,4 +24,12 @@ ng g component components/[component name] --module app
 
 ng add @angular/material
 
-***
+***Run the application
+
+ng serve 
+
+```
+
+Given below is a screen shot of the UI
+
+![alt text](https://github.com/shriasi/AngularMaterialLogin/blob/main/screenshots/Untitled.png)
